@@ -56,8 +56,8 @@ Jest to prosta aplikacja do obsługi e-maili, która umożliwia użytkownikom pr
 
 - **Django**: Framework do tworzenia aplikacji internetowych.
 - **Python**: Język programowania, w którym napisany jest projekt.
-- *JavaScipt*
-- *Fetch API*
+- **JavaScript**
+- **Fetch API**
 
 ## Jak uruchomić projekt
 
